@@ -6,3 +6,10 @@
 #
 
 LOCAL_PATH := device/tecno/fireball
+
+
+# VNDK
+PRODUCT_TARGET_VNDK_VERSION := 28
+
+# API
+PRODUCT_SHIPPING_API_LEVEL := 28
