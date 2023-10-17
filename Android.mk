@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),TECNO-KC3)
+ifeq ($(TARGET_DEVICE),fireball)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
