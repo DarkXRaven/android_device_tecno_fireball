@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_fireball.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_fireball-eng
+    twrp_fireball-eng
